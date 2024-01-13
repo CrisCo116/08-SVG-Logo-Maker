@@ -1,6 +1,5 @@
 ## SVG Generator
 
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200" fill = blue><circle cx="150" cy="100" r="40" style="fill: " /><text x="150" y="100" dominant-baseline="middle"  stroke-width="0" stroke="#000" font-size="24px" text-anchor="middle" fill="green">PLY</text></svg>
 This simple SVG generator allows you to create a logo by choosing a shape (Triangle, Rectangle, or Circle) and customizing the text color, shape color, and entering up to 3 characters.
 
 ## Getting Started
